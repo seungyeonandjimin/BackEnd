@@ -1,0 +1,8 @@
+2023-06-03 08:06:48 AM - INFO - Reading signal_9s.wav
+2023-06-03 08:06:48 AM - INFO - Time taken for reading file: 0.037737595004728064
+2023-06-03 08:06:48 AM - INFO - Starting feature engineering
+2023-06-03 08:06:49 AM - INFO - Time taken for feature engineering: 0.5752924109983724
+2023-06-03 08:06:49 AM - INFO - Predicting...
+2023-06-03 08:06:49 AM - INFO - Time taken for prediction: 0.05743734000134282. Is it a baby cry?? 1
+2023-06-03 08:06:49 AM - INFO - Saving prediction...
+2023-06-03 08:06:49 AM - INFO - Saved! /home/admin/cry/baby_cry_detection/prediction/prediction.txt
